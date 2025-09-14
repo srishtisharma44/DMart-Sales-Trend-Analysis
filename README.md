@@ -3,6 +3,8 @@
 End-to-end data analysis solution simulating and analyzing DMart's sales trends in Chhattisgarh from 2020 to 2025.  
 Highlights the impact of COVID-19 and economic recovery on retail performance via an interactive Excel dashboard.
 
+### Dashboard Preview  
+![DMart Sales Dashboard](https://github.com/srishtisharma44/DMart-Sales-Trend-Analysis/blob/main/Dashboard.png) 
 ---
 
 ## Project Overview  
@@ -68,9 +70,6 @@ A structured progression from synthetic dataset creation to an interactive, deci
 ---
 
 ## Interactive Preview & Dataset  
-
-### Dashboard Preview  
-![DMart Sales Dashboard](https://github.com/srishtisharma44/DMart-Sales-Trend-Analysis/blob/main/Dashboard.png) 
 
 ### Project Demo Video  
 [Click here to watch the Dashboard Demo](https://github.com/srishtisharma44/DMart-Sales-Trend-Analysis/blob/main/Demo.gif)
